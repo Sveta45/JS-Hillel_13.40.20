@@ -1,0 +1,15 @@
+.box_square{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    position: relative;
+}
+
+.box_rectangle{
+    width: 150px;
+}
+
+.box_circle{
+     border-radius: 50%;
+}
+
