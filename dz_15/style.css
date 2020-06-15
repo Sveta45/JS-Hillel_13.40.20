@@ -1,0 +1,30 @@
+.headTabset {
+    position: relative; 
+   }
+   .box, .title {
+    display: inline-block; 
+   }
+   
+   .title {
+    background: #ccc; 
+    padding: 5px 10px; 
+    border: 1px solid #666; 
+    border-bottom: none; 
+   }
+   .body {
+    position: absolute;
+    border: 1px solid #666; 
+    padding: 10px; 
+    left: 0; 
+    width: 500px; 
+    display: none; 
+   }
+   .titleActiv {
+    position: relative; 
+    background: #fff;
+    top: 1px; 
+    z-index: 1; 
+   }
+   .openBody {
+    display: block; 
+   }
