@@ -1,0 +1,14 @@
+
+
+.textStyle{
+    line-height: 30px;
+    margin: 10px;
+
+}
+
+.styleNotTaskDone{
+    background-color: yellow;
+}
+.styleTaskDone{
+    background-color: green;
+}
